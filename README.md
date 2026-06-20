@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ggarciac-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ggarciac)
 [![Email](https://img.shields.io/badge/Email-garciacarrillogustavo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:garciacarrillogustavo@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Estado%20de%20México%2C%20México-gray?style=flat-square)](https://maps.google.com/?q=Estado+de+Mexico)
-[![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=0e75b6&style=flat-square&label=Visitas+al+perfil)](https://github.com/TU_USUARIO_GITHUB)
+[![Profile Views](https://komarev.com/ghpvc/?username=ggarciac-30&color=0e75b6&style=flat-square&label=Visitas+al+perfil)](https://github.com/ggarciac-30)
 
 </div>
 
@@ -200,21 +200,21 @@ Analicé procesos operativos y desarrollé automatizaciones para mejorar la gene
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=es&title_color=0e75b6&icon_color=0e75b6&text_color=333333" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ggarciac-30&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=es&title_color=0e75b6&icon_color=0e75b6&text_color=333333" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=default&title_color=0e75b6&text_color=333333&langs_count=6&locale=es" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=e05d44&currStreakNum=333333&sideNums=333333&currStreakLabel=0e75b6&sideLabels=333333&dates=888888" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggarciac-30&layout=compact&hide_border=true&theme=default&title_color=0e75b6&text_color=333333&langs_count=6&locale=es" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=minimal&hide_border=true&color=0e75b6&line=0e75b6&point=e05d44&area=true&area_color=0e75b6" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ggarciac-30&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=e05d44&currStreakNum=333333&sideNums=333333&currStreakLabel=0e75b6&sideLabels=333333&dates=888888" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggarciac-30&theme=minimal&hide_border=true&color=0e75b6&line=0e75b6&point=e05d44&area=true&area_color=0e75b6" alt="Contribution Graph" width="95%" />
 
 </div>
 
