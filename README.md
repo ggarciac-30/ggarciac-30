@@ -231,7 +231,7 @@ Automaticé reportes comerciales para el cálculo de comisiones y seguimiento de
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | 🔗 [**linkedin-connections-analyzer**](#) | Pipeline completo de análisis de red profesional en Power Query M con fuzzy matching (Jaccard/Levenshtein) sobre 1,000+ contactos. Incluye clasificación de seniority y activos para LinkedIn carousel. | `Power Query M` `Excel` `Fuzzy Matching` |
-| 🔗 [**duplicate-file-detector**]([#](https://github.com/ggarciac-30/duplicate-finder)) | Herramienta CLI en Python para detección de archivos duplicados con SHA-256 hashing. Genera reporte Excel con openpyxl. | `Python` `SHA-256` `openpyxl` `CLI` |
+| 🔗 [**duplicate-file-detector**](https://github.com/ggarciac-30/duplicate-finder) | Herramienta CLI en Python para detección de archivos duplicados con SHA-256 hashing. Genera reporte Excel con openpyxl. | `Python` `SHA-256` `openpyxl` `CLI` |
 | 🔗 [**campaign-ab-testing-analysis**](#) | Análisis estadístico de pruebas A/B para evaluación de campañas de marketing en servicios financieros. | `Python` `pandas` `scipy` `Estadística` |
 | 🔗 [**pricing-analytics-dashboard**](#) | Dashboard y herramientas analíticas para seguimiento de estrategias de precios en portafolio de 28K+ productos. | `Excel VBA` `Power Query` `Power Pivot` |
 | 🔗 [**customer-segmentation-analysis**](#) | Análisis de segmentación de clientes con mapas de calor y visualización de patrones de comportamiento. | `Python` `pandas` `matplotlib` `seaborn` |
