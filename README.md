@@ -224,18 +224,25 @@ Automaticé reportes comerciales para el cálculo de comisiones y seguimiento de
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Personales Destacados
 
 > Los proyectos a continuación reflejan mis habilidades en automatización de datos, análisis de comportamiento y construcción de pipelines analíticos.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🔗 [**linkedin-connections-analyzer**](#) | Pipeline completo de análisis de red profesional en Power Query M con fuzzy matching (Jaccard/Levenshtein) sobre 1,000+ contactos. Incluye clasificación de seniority y activos para LinkedIn carousel. | `Power Query M` `Excel` `Fuzzy Matching` |
+| 🔗 [**duplicate-file-detector**](https://ggarciac-30.github.io/boutique-garcia/) | Boutique digital de ropa y accesorios importados de EE. UU. Desarrollada con HTML, CSS y JavaScript, incluye un catálogo de más de 60 productos, filtros por categoría, diseño responsivo y flujo de compra mediante WhatsApp. Publicada en GitHub Pages. | `HTML` `CSS` `JavaScript`|
+| 🔗 [**linkedin-connections-analyzer**](https://github.com/ggarciac-30/linkedin-analytics) | Pipeline completo de análisis de red profesional en Power Query M con fuzzy matching (Jaccard/Levenshtein) sobre 1,000+ contactos. Incluye clasificación de seniority y activos para LinkedIn carousel. | `Power Query M` `Excel` `Fuzzy Matching` |
 | 🔗 [**duplicate-file-detector**](https://github.com/ggarciac-30/duplicate-finder) | Herramienta CLI en Python para detección de archivos duplicados con SHA-256 hashing. Genera reporte Excel con openpyxl. | `Python` `SHA-256` `openpyxl` `CLI` |
+
+<!--
+## Próximamente
+
 | 🔗 [**campaign-ab-testing-analysis**](#) | Análisis estadístico de pruebas A/B para evaluación de campañas de marketing en servicios financieros. | `Python` `pandas` `scipy` `Estadística` |
 | 🔗 [**pricing-analytics-dashboard**](#) | Dashboard y herramientas analíticas para seguimiento de estrategias de precios en portafolio de 28K+ productos. | `Excel VBA` `Power Query` `Power Pivot` |
 | 🔗 [**customer-segmentation-analysis**](#) | Análisis de segmentación de clientes con mapas de calor y visualización de patrones de comportamiento. | `Python` `pandas` `matplotlib` `seaborn` |
 | 🔗 [**fraud-monitoring-dashboard**](#) | Sistema de monitoreo de eventos de fraude con alertas automáticas y tableros de control en Power BI. | `Power BI` `SQL` `Excel VBA` |
+
+-->
 
 ---
 
