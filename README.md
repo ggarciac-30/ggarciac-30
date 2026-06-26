@@ -87,95 +87,138 @@ perfil = {
 ## 💼 Experiencia Profesional
 
 <details>
+<summary><strong>📡 Totalplay – Científico de Datos</strong> <em>(Ago 2025 – Sep 2025 · Consultoría)</em></summary>
+
+**Sector:** Telecomunicaciones
+
+Implementé soluciones analíticas para el área de cobranza, integrando múltiples fuentes de datos y transformándolas en dashboards para el seguimiento de KPIs operativos y toma de decisiones.
+
+**Principales logros:**
+- 📊 Desarrollé dashboards interactivos en Qlik Sense para monitoreo de indicadores clave del área de cobranza
+- 🔗 Integré múltiples fuentes de datos mediante procesos ETL para consolidar la información operativa
+
+**Stack:** `Qlik Sense` `ETL` `Dashboards`
+
+</details>
+
+---
+
+<details>
 <summary><strong>🏦 BanCoppel – Científico de Datos</strong> <em>(May 2022 – Mar 2025)</em></summary>
 
 **Sector:** Servicios Financieros
 
-Formé parte del equipo de analítica de clientes, trabajando con grandes volúmenes de información para evaluar campañas, entender comportamiento de usuarios y apoyar decisiones comerciales.
+Lideré el ciclo completo de retención de clientes para los portafolios de consumo y captación, integrando segmentación, activación de campañas y medición de resultados en un flujo continuo que redujo la fuga de clientes de forma sistemática.
 
 **Principales logros:**
-- ⚡ Automaticé la validación de datos y la generación de reportes de campañas con SQL y Python, reduciendo en **más del 70%** el tiempo de preparación de análisis
-- 🗺️ Definí criterios de segmentación y desarrollé visualizaciones con **mapas de calor** para identificar patrones de comportamiento de clientes
-- 🧪 Implementé **pruebas A/B**, análisis estadístico y dashboards de métricas en Looker para evaluar campañas y facilitar seguimiento de KPIs
+- ⚡ Automaticé la validación de datos y generación de reportes de campañas con SQL y Python, reduciendo en **más del 70%** el tiempo de preparación de análisis
+- 🧪 Diseñé e implementé **pruebas A/B** y análisis estadístico junto al equipo de Marketing para evaluar efectividad de campañas y facilitar el seguimiento de KPIs
+- 📋 Definí criterios de segmentación y desarrollé visualizaciones en Looker para apoyar decisiones comerciales
 
-**Stack:** `SQL` `Python` `Looker` `Análisis Estadístico` `Pruebas A/B` `Segmentación`
+**Stack:** `SQL` `Python` `Looker` `A/B Testing` `Segmentación`
 
 </details>
 
+---
+
 <details>
-<summary><strong>🏦 BanCoppel – Analista Sr. Segmentos</strong> <em>(Ene 2022 – Abr 2022)</em></summary>
+<summary><strong>🏦 BanCoppel – Analista Sr. Segmentos</strong> <em>(Ene 2022 – May 2022)</em></summary>
 
 **Sector:** Servicios Financieros
 
-Analicé bases de datos de clientes para identificar patrones de comportamiento y tendencias entre segmentos, apoyando estrategias comerciales.
+Analicé bases de datos de clientes para identificar perfiles de afinidad por producto y tendencias entre segmentos, consolidando hallazgos en recomendaciones comerciales documentadas.
 
 **Principales logros:**
-- 🎯 Definí criterios de segmentación mediante análisis de patrones para identificar perfiles con mayor afinidad a distintos productos
-- 📊 Analicé comportamiento de clientes para apoyar la definición de audiencias objetivo
+- 🎯 Identifiqué perfiles de clientes con mayor afinidad a distintos productos mediante análisis de patrones y tendencias
+- 📑 Documenté recomendaciones comerciales en Google Workspace para orientar estrategias del área
 
-**Stack:** `SQL` `Python` `Segmentación` `Análisis de Comportamiento`
+**Stack:** `SQL` `Google Sheets` `Segmentación`
 
 </details>
+
+---
 
 <details>
 <summary><strong>💄 Avon Cosmetics – Pricing Planner Analyst</strong> <em>(Jul 2020 – Dic 2021)</em></summary>
 
-**Sector:** Retail / Cosmética
+**Sector:** Retail
 
-Analicé información de precios para un portafolio de **más de 28,000 productos** en mercados de Centroamérica y República Dominicana para evaluar estrategias de pricing y apoyar la planeación de campañas.
+Gestioné estrategias de pricing para un portafolio de +28,000 productos en Centroamérica y República Dominicana, cubriendo las divisiones CFT y F&H.
 
 **Principales logros:**
-- ⚡ Automaticé reportes de pricing con **Excel VBA**, reduciendo en más del **60%** el tiempo de análisis
-- 🔧 Desarrollé herramientas analíticas para evaluar tendencias de precios por categoría con **Power Query** y **Power Pivot**
+- 🔧 Construí modelos analíticos con Power Query y Power Pivot para evaluar tendencias de precios por categoría y soportar la definición de **Pricing Corridors**
+- ⚡ Automaticé reportes de pricing con Excel VBA, reduciendo en **más del 60%** el tiempo de análisis
 
-**Stack:** `Excel VBA` `Power Query` `Power Pivot` `SQL` `Análisis de Precios`
+**Stack:** `Excel VBA` `Power Query` `Power Pivot` `Pricing Analytics`
 
 </details>
+
+---
 
 <details>
 <summary><strong>🏦 Santander México – Analista Base de Datos</strong> <em>(Dic 2019 – Jul 2020)</em></summary>
 
-**Sector:** Servicios Financieros / Banca
+**Sector:** Servicios Financieros · Prevención de Fraude
 
-Analicé información operativa y monitoreé eventos asociados a fraude para detectar incidencias y mejorar procesos de seguimiento.
+Monitoreé eventos operativos en el área de Prevención de Fraudes, integrando información de múltiples fuentes para mejorar la detección y seguimiento de riesgo.
 
 **Principales logros:**
-- 🔍 Automaticé el monitoreo de eventos de fraude con **Excel VBA**, mejorando la detección de interrupciones
-- 📊 Desarrollé tableros de control en **Power BI** para monitoreo visual y reacción más rápida ante incidencias
-- 🔗 Integré información de múltiples fuentes mediante consultas en **Access** para análisis de riesgo
+- 🔍 Desarrollé un sistema de monitoreo **24/7** con Excel VBA y web scraping, automatizando la extracción de eventos de fraude y activando **alertas en tiempo real**
+- 📊 Construí tableros de control en Power BI integrando múltiples fuentes vía SQL para el seguimiento visual de eventos de riesgo
+- 🖥️ Diseñé plantillas interactivas en Excel VBA con controles y eventos personalizados para facilitar el análisis diario del equipo
 
-**Stack:** `Excel VBA` `Power BI` `SQL` `Access` `Monitoreo de Fraude`
+**Stack:** `Excel VBA` `Web Scraping` `Power BI` `SQL` `Access`
 
 </details>
+
+---
 
 <details>
 <summary><strong>🎓 Enova México – Especialista de Datos y Procesos</strong> <em>(Mar 2018 – Dic 2019)</em></summary>
 
 **Sector:** Educación / EdTech
 
-Analicé indicadores operativos de programas educativos y desarrollé dashboards para el seguimiento del desempeño de alumnos.
+Analicé indicadores operativos de programas educativos y desarrollé dashboards y reportes para el seguimiento del desempeño de alumnos y la toma de decisiones operativas.
 
 **Principales logros:**
-- 📈 Desarrollé dashboards operativos en **Looker Studio** utilizados por **más de 20 usuarios**
-- ⚡ Automaticé la generación de reportes con **Excel VBA**, reduciendo en más del **70%** el tiempo de preparación
-- 👥 Coordiné el trabajo de un integrante del equipo en el desarrollo de herramientas analíticas
+- 📈 Desarrollé dashboards en Data Studio utilizados por **+20 usuarios** para visualizar indicadores de aprovechamiento, deserción, satisfacción y avance por programa
+- ⚡ Automaticé reportes operativos con Excel VBA y PowerShell, reduciendo en **más del 70%** el tiempo de preparación
+- 👥 Coordiné a un integrante del equipo en el desarrollo de herramientas de análisis
 
-**Stack:** `Looker Studio` `Excel VBA` `SQL` `Reportería Operativa`
+**Stack:** `Data Studio` `Excel VBA` `PowerShell` `SQL`
 
 </details>
+
+---
 
 <details>
 <summary><strong>🎓 Enova México – Analista de Datos y Procesos</strong> <em>(Nov 2016 – Mar 2018)</em></summary>
 
 **Sector:** Educación / EdTech
 
-Analicé procesos operativos y desarrollé automatizaciones para mejorar la generación de reportes e indicadores de desempeño de alumnos.
+Automaticé procesos de reportería e indicadores de desempeño académico. El trabajo realizado derivó en una promoción al rol de Especialista.
 
 **Principales logros:**
-- 🤖 Automaticé reportes operativos mediante **macros en Excel VBA** para reducir tareas manuales
-- 📊 Desarrollé indicadores operativos para monitorear el progreso de alumnos en cursos
+- 🤖 Automaticé reportes operativos con macros en Excel VBA para reducir tareas manuales
+- 📽️ Diseñé y automaticé presentaciones ejecutivas con VBA en Excel y PowerPoint consolidando KPIs de aprovechamiento, deserción y satisfacción de alumnos
 
-**Stack:** `Excel VBA` `SQL` `Reportería` `Automatización`
+**Stack:** `Excel VBA` `PowerPoint VBA`
+
+</details>
+
+---
+
+<details>
+<summary><strong>🏛️ Financiera Maestra – Analista de Información</strong> <em>(Sep 2016 – Nov 2016)</em></summary>
+
+**Sector:** Servicios Financieros · Crédito al Consumo
+
+Automaticé reportes comerciales para el cálculo de comisiones y seguimiento de indicadores en el área de Inteligencia Comercial, reduciendo errores manuales y mejorando la precisión del área.
+
+**Principales logros:**
+- ⚡ Automaticé reportes de comisiones con Excel VBA, reduciendo errores manuales en el proceso
+
+**Stack:** `Excel VBA`
 
 </details>
 
