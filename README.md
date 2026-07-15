@@ -233,7 +233,7 @@ Automaticé reportes comerciales para el cálculo de comisiones y seguimiento de
 | 🔗 [**boutique-garcia**](https://ggarciac-30.github.io/boutique-garcia/) | Boutique digital de ropa y accesorios importados de EE. UU. Desarrollada con HTML, CSS y JavaScript, incluye un catálogo de más de 60 productos, filtros por categoría, diseño responsivo y flujo de compra mediante WhatsApp. Publicada en GitHub Pages. | `HTML` `CSS` `JavaScript`|
 | 🔗 [**linkedin-analytics**](https://github.com/ggarciac-30/linkedin-analytics) | Pipeline completo de análisis de red profesional en Power Query M con fuzzy matching (Jaccard/Levenshtein) sobre 1,000+ contactos. Incluye clasificación de seniority y activos para LinkedIn carousel. | `Power Query M` `Excel` `Fuzzy Matching` |
 | 🔗 [**duplicate-finder**](https://github.com/ggarciac-30/duplicate-finder) | Herramienta CLI en Python para detección de archivos duplicados con SHA-256 hashing. Genera reporte Excel con openpyxl. | `Python` `SHA-256` `openpyxl` `CLI` |
-
+| 🔗 [**english-academy**](https://ggarciac-30.github.io/business-english-course/) | Academia digital de cursos personalizados de inglés. Desarrollada con HTML, CSS y JavaScript, incluye un catálogo de los cursos que se imparten, plantilla docente, costos, contacto. Publicada en GitHub Pages. | `HTML` `CSS` `JavaScript` `Formspree` `Whatsapp Messages`|
 <!--
 ## Próximamente
 
