@@ -1,3 +1,4 @@
+
 <!-- BANNER -->
 <div align="center">
   <img src="./assets/banner.png" alt="Gustavo García Carrillo – Data Analyst | BI Analyst | Data Scientist" width="100%" />
@@ -234,6 +235,7 @@ Automaticé reportes comerciales para el cálculo de comisiones y seguimiento de
 | 🔗 [**linkedin-analytics**](https://github.com/ggarciac-30/linkedin-analytics) | Pipeline completo de análisis de red profesional en Power Query M con fuzzy matching (Jaccard/Levenshtein) sobre 1,000+ contactos. Incluye clasificación de seniority y activos para LinkedIn carousel. | `Power Query M` `Excel` `Fuzzy Matching` |
 | 🔗 [**duplicate-finder**](https://github.com/ggarciac-30/duplicate-finder) | Herramienta CLI en Python para detección de archivos duplicados con SHA-256 hashing. Genera reporte Excel con openpyxl. | `Python` `SHA-256` `openpyxl` `CLI` |
 | 🔗 [**english-academy**](https://ggarciac-30.github.io/business-english-course/) | Academia digital de cursos personalizados de inglés. Desarrollada con HTML, CSS y JavaScript, incluye un catálogo de los cursos que se imparten, plantilla docente, costos, contacto. Publicada en GitHub Pages. | `HTML` `CSS` `JavaScript` `Formspree` `Whatsapp Messages`|
+| 🔗 [**SOP_MeLi_Capacity_Business_Case**](https://ggarciac-30.github.io/SOP_MeLi_Capacity_Business_Case/) | Business case de capacidad operativa para un Fulfillment Center: análisis de stock, capacidad de almacenamiento y dimensionamiento de personal (staffing) con proyección de faltante. | `Python` `SQL` |
 <!--
 ## Próximamente
 
